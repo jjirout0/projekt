@@ -1,0 +1,15 @@
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\bin\Debug\net9.0\finance.exe
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\bin\Debug\net9.0\finance.deps.json
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\bin\Debug\net9.0\finance.runtimeconfig.json
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\bin\Debug\net9.0\finance.dll
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\bin\Debug\net9.0\finance.pdb
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.AssemblyInfoInputs.cache
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.AssemblyInfo.cs
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.csproj.CoreCompileInputs.cache
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.sourcelink.json
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.dll
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\refint\finance.dll
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.pdb
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\finance.genruntimeconfig.cache
+C:\Users\stone\Desktop\Škola\Programovani\finance\finance\obj\Debug\net9.0\ref\finance.dll

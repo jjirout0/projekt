@@ -1,4 +1,0 @@
-Prijem;05.06.2026 8:41:24;14000;prodej;prodal jsem svoje hovinko
-Vydaj;05.06.2026 8:42:09;10000;nakup;koupil jsem Matejovo hovinko
-Prijem;15.03.2026 0:00:00;5000;k;k
-Vydaj;05.06.2026 8:51:04;6000;k;h

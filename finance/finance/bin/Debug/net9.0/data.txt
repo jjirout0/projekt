@@ -1,0 +1,5 @@
+Prijem;5/6/2026 8:41:24 AM;14000;prodej;prodal jsem svoje hovinko
+Vydaj;5/6/2026 8:42:09 AM;10000;nakup;koupil jsem Matejovo hovinko
+Vydaj;5/6/2026 8:51:04 AM;6000;k;h
+Prijem;6/12/2026 9:30:22 AM;20;Jídlo;burger
+Vydaj;6/12/2026 9:30:39 AM;300;jídlo;káva
